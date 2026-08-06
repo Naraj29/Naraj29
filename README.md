@@ -109,7 +109,7 @@ My approach to software development centers on:
 
 - **Email**: rajaryans844@gmail.com
 - **GitHub**: [Naraj29](https://github.com/Naraj29)
-- **Portfolio**: Coming soon
+- **Portfolio**: [raj-aryan-aktu.vercel.app](https://raj-aryan-aktu.vercel.app)
 
 ## Collaboration
 
