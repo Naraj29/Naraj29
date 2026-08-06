@@ -1,16 +1,16 @@
-# 👋 Hi, I'm Naraj
+# Hi, I'm Raj Aryan Singh
 
 **Full-Stack Developer | AI Enthusiast | Privacy Advocate**
 
 I'm a passionate developer focused on building modern, intelligent applications with a strong emphasis on user privacy and AI integration. Currently working on an extensive development ecosystem called **UC (Unified Computing)**.
 
-## 🚀 Current Focus
+## Current Focus
 
 I'm actively developing the **UC ecosystem** - a comprehensive suite of applications designed to enhance productivity, privacy, and user experience across multiple platforms.
 
 ### Public Projects
 
-#### 🌐 [Agent Browser](https://github.com/Naraj29/agent_browser)
+#### [Agent Browser](https://github.com/Naraj29/agent_browser)
 An AI-powered Electron desktop browser with advanced privacy features and productivity tools.
 
 - **Tech Stack**: Electron, React, TypeScript, Tailwind CSS
@@ -22,7 +22,7 @@ An AI-powered Electron desktop browser with advanced privacy features and produc
   - Integrated bookmarks, history, notes, tasks, and downloads
   - Knowledge graph synchronization
 
-#### 📸 [Alaya Gallery](https://github.com/Naraj29/Alaya-gallery)
+#### [Alaya Gallery](https://github.com/Naraj29/Alaya-gallery)
 A modern cross-platform Flutter application for elegant photo and video browsing.
 
 - **Tech Stack**: Flutter, Dart, Provider
@@ -45,7 +45,7 @@ The UC ecosystem includes additional private projects that complement the public
 
 *Note: Some UC projects are kept private for security and commercial reasons. The public repositories represent the consumer-facing applications from this ecosystem.*
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Frontend Development
 - **Frameworks**: React, Flutter, Electron
@@ -74,7 +74,7 @@ The UC ecosystem includes additional private projects that complement the public
 - **Testing**: Jest, Flutter Test, E2E testing
 - **CI/CD**: GitHub Actions, automated deployments
 
-## 🎯 Development Philosophy
+## Development Philosophy
 
 My approach to software development centers on:
 
@@ -84,14 +84,14 @@ My approach to software development centers on:
 4. **Modern Architecture**: Utilizing the latest technologies and best practices
 5. **Open Source Contribution**: Sharing knowledge and tools with the developer community
 
-## 📈 Project Statistics
+## Project Statistics
 
 - **Active Repositories**: 2+ public projects
 - **Lines of Code**: 30,000+ across UC ecosystem
 - **Technologies**: 10+ major frameworks and languages
 - **Platforms**: Windows, macOS, Linux, Android, iOS, Web
 
-## 🔮 Future Roadmap
+## Future Roadmap
 
 ### Short-term Goals
 - [ ] Expand AI capabilities in Agent Browser
@@ -105,13 +105,13 @@ My approach to software development centers on:
 - [ ] Develop advanced AI agents
 - [ ] Create privacy-focused development tools
 
-## 📧 Get In Touch
+## Get In Touch
 
 - **Email**: rajaryans844@gmail.com
 - **GitHub**: [Naraj29](https://github.com/Naraj29)
 - **Portfolio**: Coming soon
 
-## 🤝 Collaboration
+## Collaboration
 
 I'm open to collaborating on:
 - Privacy-focused browser technologies
@@ -123,4 +123,4 @@ I'm open to collaborating on:
 
 **Building the future of private, intelligent computing, one application at a time.**
 
-⭐ **Star my public repositories to follow the UC ecosystem development!**
+**Star my public repositories to follow the UC ecosystem development!**
