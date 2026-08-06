@@ -108,6 +108,7 @@ My approach to software development centers on:
 ## Get In Touch
 
 - **Email**: rajaryans844@gmail.com
+- **LinkedIn**: [Raj Aryan Singh](https://www.linkedin.com/in/raj-aryan-singh-88b03833a/)
 - **GitHub**: [Naraj29](https://github.com/Naraj29)
 - **Portfolio**: [raj-aryan-aktu.vercel.app](https://raj-aryan-aktu.vercel.app)
 
